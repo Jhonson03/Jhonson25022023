@@ -8,5 +8,7 @@ namespace AsincronaS5.Entidades
 {
     public class Datos
     {
+        int inicio {get;set;} 
+        int fin {get;set;}
     }
 }
