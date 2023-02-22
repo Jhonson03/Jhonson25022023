@@ -10,5 +10,6 @@ namespace AsincronaS5.Entidades
     {
         public int inicio {get;set;} 
         public int fin {get;set;}
+        public int count {get;set;}
     }
 }
